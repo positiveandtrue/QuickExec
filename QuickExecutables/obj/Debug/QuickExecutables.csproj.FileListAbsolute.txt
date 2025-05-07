@@ -1,0 +1,15 @@
+G:\Michael's Coding Projects\WinForms\QuickExecutables\bin\Debug\QuickExecutables.exe.config
+G:\Michael's Coding Projects\WinForms\QuickExecutables\bin\Debug\QuickExecutables.exe
+G:\Michael's Coding Projects\WinForms\QuickExecutables\bin\Debug\QuickExecutables.pdb
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.csproj.AssemblyReference.cache
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.Form1.resources
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.Properties.Resources.resources
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.csproj.GenerateResource.cache
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.csproj.CoreCompileInputs.cache
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.exe
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.pdb
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExecutables.csproj.ResolveComReference.cache
+G:\Michael's Coding Projects\WinForms\QuickExecutables\bin\Debug\Newtonsoft.Json.dll
+G:\Michael's Coding Projects\WinForms\QuickExecutables\bin\Debug\Newtonsoft.Json.xml
+G:\Michael's Coding Projects\WinForms\QuickExecutables\obj\Debug\QuickExe.694D6137.Up2Date
